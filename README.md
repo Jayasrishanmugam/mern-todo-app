@@ -64,7 +64,7 @@ mern-todo-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Jayasrishanmugam/mern-todo-app 
+   git clone https://github.com/Jayasrishanmugam/mern-todo-app.git
    cd mern-todo-app
    ```
 
